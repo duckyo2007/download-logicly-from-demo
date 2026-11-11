@@ -1,4 +1,5 @@
-# Download-.logicly-on-logic.ly-demo-for-free
-Download .logicly on logic.ly/demo for free
+# Download `.logicly` Files from Logic.ly Demo
+Export `.logicly` circuit files directly from `logic.ly/demo` for free.
 
-just paste the script to the console of devtools.
+## Usage
+Paste the contents of `script.js` into your browser's DevTools console.
